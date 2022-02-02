@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ZinZen/static/css/main.870d6d2e.css",
+    "main.js": "/ZinZen/static/js/main.8d91e11c.js",
+    "static/media/DashboardThemeLight.svg": "/ZinZen/static/media/DashboardThemeLight.00f01b2c6e42c075385fe5ad42ff2af9.svg",
+    "static/media/DashboardThemeDark.svg": "/ZinZen/static/media/DashboardThemeDark.c66b7b718a330dd4f104bb1c2453f085.svg",
+    "static/media/montserrat-all-400-normal.woff": "/ZinZen/static/media/montserrat-all-400-normal.aa917f2f47304e192c88.woff",
+    "static/media/kristi-all-400-normal.woff": "/ZinZen/static/media/kristi-all-400-normal.ea00bb3e1a59061bbb2d.woff",
+    "static/media/kristi-latin-400-normal.woff2": "/ZinZen/static/media/kristi-latin-400-normal.6efdfe3473a3c18f99c8.woff2",
+    "static/media/montserrat-latin-400-normal.woff2": "/ZinZen/static/media/montserrat-latin-400-normal.5d169d5efcd03fdcc0d7.woff2",
+    "static/media/montserrat-latin-ext-400-normal.woff2": "/ZinZen/static/media/montserrat-latin-ext-400-normal.78f49f9fae55910fc2ae.woff2",
+    "static/media/montserrat-cyrillic-ext-400-normal.woff2": "/ZinZen/static/media/montserrat-cyrillic-ext-400-normal.292f0ac24f2654f6e295.woff2",
+    "static/media/montserrat-cyrillic-400-normal.woff2": "/ZinZen/static/media/montserrat-cyrillic-400-normal.57021f86f3fe9d3ba3c8.woff2",
+    "static/media/bookicon.svg": "/ZinZen/static/media/bookicon.f4755b7b5438912852714de9a17da411.svg",
+    "static/media/montserrat-vietnamese-400-normal.woff2": "/ZinZen/static/media/montserrat-vietnamese-400-normal.ba00b1a6e1e5778dbf9b.woff2",
+    "index.html": "/ZinZen/index.html",
+    "main.870d6d2e.css.map": "/ZinZen/static/css/main.870d6d2e.css.map",
+    "main.8d91e11c.js.map": "/ZinZen/static/js/main.8d91e11c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.870d6d2e.css",
+    "static/js/main.8d91e11c.js"
+  ]
+}
