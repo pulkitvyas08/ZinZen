@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/ZinZen/static/css/main.fc86069b.css",
-    "main.js": "/ZinZen/static/js/main.99533da3.js",
+    "main.css": "/ZinZen/static/css/main.98ef279c.css",
+    "main.js": "/ZinZen/static/js/main.dd11b410.js",
     "static/media/DashboardThemeDark.svg": "/ZinZen/static/media/DashboardThemeDark.2bfd0bc78f8b8060b6a2c8837b2aa45c.svg",
     "static/media/DashboardThemeLight.svg": "/ZinZen/static/media/DashboardThemeLight.00f01b2c6e42c075385fe5ad42ff2af9.svg",
     "static/media/montserrat-all-400-normal.woff": "/ZinZen/static/media/montserrat-all-400-normal.aa917f2f47304e192c88.woff",
-    "static/media/kristi-all-400-normal.woff": "/ZinZen/static/media/kristi-all-400-normal.ea00bb3e1a59061bbb2d.woff",
-    "static/media/kristi-latin-400-normal.woff2": "/ZinZen/static/media/kristi-latin-400-normal.6efdfe3473a3c18f99c8.woff2",
     "static/media/montserrat-latin-400-normal.woff2": "/ZinZen/static/media/montserrat-latin-400-normal.5d169d5efcd03fdcc0d7.woff2",
     "static/media/montserrat-latin-ext-400-normal.woff2": "/ZinZen/static/media/montserrat-latin-ext-400-normal.78f49f9fae55910fc2ae.woff2",
     "static/media/montserrat-cyrillic-ext-400-normal.woff2": "/ZinZen/static/media/montserrat-cyrillic-ext-400-normal.292f0ac24f2654f6e295.woff2",
     "static/media/montserrat-cyrillic-400-normal.woff2": "/ZinZen/static/media/montserrat-cyrillic-400-normal.57021f86f3fe9d3ba3c8.woff2",
     "static/media/bookicon.svg": "/ZinZen/static/media/bookicon.f4755b7b5438912852714de9a17da411.svg",
     "static/media/montserrat-vietnamese-400-normal.woff2": "/ZinZen/static/media/montserrat-vietnamese-400-normal.ba00b1a6e1e5778dbf9b.woff2",
+    "static/media/logo.svg": "/ZinZen/static/media/logo.628965a91c659f9f059ff2d40296ab29.svg",
     "index.html": "/ZinZen/index.html",
-    "main.fc86069b.css.map": "/ZinZen/static/css/main.fc86069b.css.map",
-    "main.99533da3.js.map": "/ZinZen/static/js/main.99533da3.js.map"
+    "main.98ef279c.css.map": "/ZinZen/static/css/main.98ef279c.css.map",
+    "main.dd11b410.js.map": "/ZinZen/static/js/main.dd11b410.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc86069b.css",
-    "static/js/main.99533da3.js"
+    "static/css/main.98ef279c.css",
+    "static/js/main.dd11b410.js"
   ]
 }
