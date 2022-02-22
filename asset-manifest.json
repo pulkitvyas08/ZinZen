@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ZinZen/static/css/main.1082bb89.css",
+    "main.css": "/ZinZen/static/css/main.4377393b.css",
     "main.js": "/ZinZen/static/js/main.cb92c5f6.js",
     "static/media/DashboardThemeDark.svg": "/ZinZen/static/media/DashboardThemeDark.2bfd0bc78f8b8060b6a2c8837b2aa45c.svg",
     "static/media/DashboardThemeLight.svg": "/ZinZen/static/media/DashboardThemeLight.00f01b2c6e42c075385fe5ad42ff2af9.svg",
@@ -14,11 +14,11 @@
     "static/media/bookicon.svg": "/ZinZen/static/media/bookicon.f4755b7b5438912852714de9a17da411.svg",
     "static/media/montserrat-vietnamese-400-normal.woff2": "/ZinZen/static/media/montserrat-vietnamese-400-normal.ba00b1a6e1e5778dbf9b.woff2",
     "index.html": "/ZinZen/index.html",
-    "main.1082bb89.css.map": "/ZinZen/static/css/main.1082bb89.css.map",
+    "main.4377393b.css.map": "/ZinZen/static/css/main.4377393b.css.map",
     "main.cb92c5f6.js.map": "/ZinZen/static/js/main.cb92c5f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.1082bb89.css",
+    "static/css/main.4377393b.css",
     "static/js/main.cb92c5f6.js"
   ]
 }
