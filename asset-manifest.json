@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ZinZen/static/css/main.e17b83af.css",
-    "main.js": "/ZinZen/static/js/main.dd11b410.js",
+    "main.css": "/ZinZen/static/css/main.b8ff0f54.css",
+    "main.js": "/ZinZen/static/js/main.a051c7e9.js",
     "static/media/DashboardThemeDark.svg": "/ZinZen/static/media/DashboardThemeDark.2bfd0bc78f8b8060b6a2c8837b2aa45c.svg",
     "static/media/DashboardThemeLight.svg": "/ZinZen/static/media/DashboardThemeLight.00f01b2c6e42c075385fe5ad42ff2af9.svg",
     "static/media/montserrat-all-400-normal.woff": "/ZinZen/static/media/montserrat-all-400-normal.aa917f2f47304e192c88.woff",
@@ -11,13 +11,14 @@
     "static/media/montserrat-cyrillic-400-normal.woff2": "/ZinZen/static/media/montserrat-cyrillic-400-normal.57021f86f3fe9d3ba3c8.woff2",
     "static/media/bookicon.svg": "/ZinZen/static/media/bookicon.f4755b7b5438912852714de9a17da411.svg",
     "static/media/montserrat-vietnamese-400-normal.woff2": "/ZinZen/static/media/montserrat-vietnamese-400-normal.ba00b1a6e1e5778dbf9b.woff2",
-    "static/media/logo.svg": "/ZinZen/static/media/logo.628965a91c659f9f059ff2d40296ab29.svg",
+    "static/media/LogoDark.svg": "/ZinZen/static/media/LogoDark.5c4ec3669f35160635a7d5c1f2287415.svg",
+    "static/media/LogoLight.svg": "/ZinZen/static/media/LogoLight.628965a91c659f9f059ff2d40296ab29.svg",
     "index.html": "/ZinZen/index.html",
-    "main.e17b83af.css.map": "/ZinZen/static/css/main.e17b83af.css.map",
-    "main.dd11b410.js.map": "/ZinZen/static/js/main.dd11b410.js.map"
+    "main.b8ff0f54.css.map": "/ZinZen/static/css/main.b8ff0f54.css.map",
+    "main.a051c7e9.js.map": "/ZinZen/static/js/main.a051c7e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.e17b83af.css",
-    "static/js/main.dd11b410.js"
+    "static/css/main.b8ff0f54.css",
+    "static/js/main.a051c7e9.js"
   ]
 }
