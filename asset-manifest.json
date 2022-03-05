@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ZinZen/static/css/main.eec7cc35.css",
-    "main.js": "/ZinZen/static/js/main.64118112.js",
+    "main.js": "/ZinZen/static/js/main.d991705f.js",
     "static/media/DashboardThemeDark.svg": "/ZinZen/static/media/DashboardThemeDark.2bfd0bc78f8b8060b6a2c8837b2aa45c.svg",
     "static/media/DashboardThemeLight.svg": "/ZinZen/static/media/DashboardThemeLight.00f01b2c6e42c075385fe5ad42ff2af9.svg",
     "static/media/montserrat-all-400-normal.woff": "/ZinZen/static/media/montserrat-all-400-normal.aa917f2f47304e192c88.woff",
@@ -16,10 +16,10 @@
     "static/media/LogoLight.svg": "/ZinZen/static/media/LogoLight.628965a91c659f9f059ff2d40296ab29.svg",
     "index.html": "/ZinZen/index.html",
     "main.eec7cc35.css.map": "/ZinZen/static/css/main.eec7cc35.css.map",
-    "main.64118112.js.map": "/ZinZen/static/js/main.64118112.js.map"
+    "main.d991705f.js.map": "/ZinZen/static/js/main.d991705f.js.map"
   },
   "entrypoints": [
     "static/css/main.eec7cc35.css",
-    "static/js/main.64118112.js"
+    "static/js/main.d991705f.js"
   ]
 }
