@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ZinZen/static/css/main.eec7cc35.css",
-    "main.js": "/ZinZen/static/js/main.d991705f.js",
+    "main.css": "/ZinZen/static/css/main.4ca66854.css",
+    "main.js": "/ZinZen/static/js/main.3791653c.js",
     "static/media/DashboardThemeDark.svg": "/ZinZen/static/media/DashboardThemeDark.2bfd0bc78f8b8060b6a2c8837b2aa45c.svg",
     "static/media/DashboardThemeLight.svg": "/ZinZen/static/media/DashboardThemeLight.00f01b2c6e42c075385fe5ad42ff2af9.svg",
     "static/media/montserrat-all-400-normal.woff": "/ZinZen/static/media/montserrat-all-400-normal.aa917f2f47304e192c88.woff",
@@ -10,16 +10,16 @@
     "static/media/montserrat-latin-ext-400-normal.woff2": "/ZinZen/static/media/montserrat-latin-ext-400-normal.78f49f9fae55910fc2ae.woff2",
     "static/media/montserrat-cyrillic-ext-400-normal.woff2": "/ZinZen/static/media/montserrat-cyrillic-ext-400-normal.292f0ac24f2654f6e295.woff2",
     "static/media/montserrat-cyrillic-400-normal.woff2": "/ZinZen/static/media/montserrat-cyrillic-400-normal.57021f86f3fe9d3ba3c8.woff2",
+    "static/media/LogoDark1.svg": "/ZinZen/static/media/LogoDark1.22fc166a305f6f22a323f3a07018aa79.svg",
+    "static/media/LogoLight1.svg": "/ZinZen/static/media/LogoLight1.8727f12c71c23434f6847dec477fb2c9.svg",
     "static/media/bookicon.svg": "/ZinZen/static/media/bookicon.f4755b7b5438912852714de9a17da411.svg",
     "static/media/montserrat-vietnamese-400-normal.woff2": "/ZinZen/static/media/montserrat-vietnamese-400-normal.ba00b1a6e1e5778dbf9b.woff2",
-    "static/media/LogoDark.svg": "/ZinZen/static/media/LogoDark.5c4ec3669f35160635a7d5c1f2287415.svg",
-    "static/media/LogoLight.svg": "/ZinZen/static/media/LogoLight.628965a91c659f9f059ff2d40296ab29.svg",
     "index.html": "/ZinZen/index.html",
-    "main.eec7cc35.css.map": "/ZinZen/static/css/main.eec7cc35.css.map",
-    "main.d991705f.js.map": "/ZinZen/static/js/main.d991705f.js.map"
+    "main.4ca66854.css.map": "/ZinZen/static/css/main.4ca66854.css.map",
+    "main.3791653c.js.map": "/ZinZen/static/js/main.3791653c.js.map"
   },
   "entrypoints": [
-    "static/css/main.eec7cc35.css",
-    "static/js/main.d991705f.js"
+    "static/css/main.4ca66854.css",
+    "static/js/main.3791653c.js"
   ]
 }
