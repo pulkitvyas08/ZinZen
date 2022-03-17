@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ZinZen/static/css/main.31c0c8d4.css",
-    "main.js": "/ZinZen/static/js/main.e51471c2.js",
+    "main.js": "/ZinZen/static/js/main.b865a871.js",
     "static/media/DashboardThemeDark.svg": "/ZinZen/static/media/DashboardThemeDark.088f068cc16bbbb440ec5a20de3e56e6.svg",
     "static/media/DashboardThemeLight.svg": "/ZinZen/static/media/DashboardThemeLight.76eb072154959aeafd79afbf1e38865e.svg",
     "static/media/montserrat-all-400-normal.woff": "/ZinZen/static/media/montserrat-all-400-normal.aa917f2f47304e192c88.woff",
@@ -10,16 +10,16 @@
     "static/media/montserrat-latin-ext-400-normal.woff2": "/ZinZen/static/media/montserrat-latin-ext-400-normal.78f49f9fae55910fc2ae.woff2",
     "static/media/montserrat-cyrillic-ext-400-normal.woff2": "/ZinZen/static/media/montserrat-cyrillic-ext-400-normal.292f0ac24f2654f6e295.woff2",
     "static/media/montserrat-cyrillic-400-normal.woff2": "/ZinZen/static/media/montserrat-cyrillic-400-normal.57021f86f3fe9d3ba3c8.woff2",
-    "static/media/LogoDark1.svg": "/ZinZen/static/media/LogoDark1.22fc166a305f6f22a323f3a07018aa79.svg",
-    "static/media/LogoLight1.svg": "/ZinZen/static/media/LogoLight1.8727f12c71c23434f6847dec477fb2c9.svg",
+    "static/media/LogoTextDark.svg": "/ZinZen/static/media/LogoTextDark.22fc166a305f6f22a323f3a07018aa79.svg",
+    "static/media/LogoTextLight.svg": "/ZinZen/static/media/LogoTextLight.8727f12c71c23434f6847dec477fb2c9.svg",
     "static/media/bookicon.svg": "/ZinZen/static/media/bookicon.f4755b7b5438912852714de9a17da411.svg",
     "static/media/montserrat-vietnamese-400-normal.woff2": "/ZinZen/static/media/montserrat-vietnamese-400-normal.ba00b1a6e1e5778dbf9b.woff2",
     "index.html": "/ZinZen/index.html",
     "main.31c0c8d4.css.map": "/ZinZen/static/css/main.31c0c8d4.css.map",
-    "main.e51471c2.js.map": "/ZinZen/static/js/main.e51471c2.js.map"
+    "main.b865a871.js.map": "/ZinZen/static/js/main.b865a871.js.map"
   },
   "entrypoints": [
     "static/css/main.31c0c8d4.css",
-    "static/js/main.e51471c2.js"
+    "static/js/main.b865a871.js"
   ]
 }
