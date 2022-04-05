@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Create or Update Project Card
-        token: zinzen-secret
         uses: peter-evans/create-or-update-project-card@v1
         with:
+          token: zinzen-secret
           project-name: ZinZen project board
