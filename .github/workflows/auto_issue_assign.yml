@@ -8,5 +8,5 @@ jobs:
       - name: Create or Update Project Card
         uses: peter-evans/create-or-update-project-card@v1
         with:
-          token: ZINZEN_PAT
+          token: ${{ secrets.ZINZEN_PAT }}
           project-name: ZinZen project board
